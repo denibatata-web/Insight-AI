@@ -126,3 +126,25 @@ Resultados gerados por modelos de linguagem devem ser conferidos antes de uso op
 ## Licença
 
 Este projeto é disponibilizado sob a **Licença MIT**. Consulte o arquivo `LICENSE`.
+
+## 🎥 Demonstração em vídeo
+
+A apresentação e demonstração do **Insight AI — Sistema Multiagente para Análise e Comparação de Apólices D&O** está disponível no YouTube.
+
+▶️ [Assistir à demonstração do Insight AI](https://youtu.be/rHsjHHYonVY)
+
+O vídeo apresenta a proposta do projeto, a arquitetura multiagente, o funcionamento da aplicação, a análise comparativa das apólices D&O e os principais resultados obtidos.
+
+## 📊 Apresentação do projeto
+
+Os materiais utilizados na apresentação estão disponíveis na pasta `apresentação/`:
+
+- `Pitch_Deck_Insight_AI_InsurMinds_2026.pdf`
+- `Pitch_Deck_Insight_AI_InsurMinds_2026.pptx`
+
+## 👥 Equipe
+
+**Deni de Souza Santos — Representante**  
+**Tatiane Ivanof**
+
+Projeto Final — **InsurMinds 2026**
