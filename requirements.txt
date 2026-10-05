@@ -1,0 +1,8 @@
+streamlit
+pandas
+pypdf
+groq
+pydantic
+reportlab
+Pillow
+pytesseract
