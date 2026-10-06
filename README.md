@@ -131,7 +131,7 @@ Este projeto é disponibilizado sob a **Licença MIT**. Consulte o arquivo `LICE
 
 A apresentação e demonstração do **Insight AI — Sistema Multiagente para Análise e Comparação de Apólices D&O** está disponível no YouTube.
 
-▶️ [Assistir à demonstração do Insight AI](https://youtu.be/rHsjHHYonVY)
+▶️ [Assistir à demonstração do Insight AI](https://youtu.be/-DHnJMWrWp0)
 
 O vídeo apresenta a proposta do projeto, a arquitetura multiagente, o funcionamento da aplicação, a análise comparativa das apólices D&O e os principais resultados obtidos.
 
